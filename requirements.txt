@@ -1,0 +1,15 @@
+streamlit
+mistralai
+langchain
+langchain-mistralai
+langchain-community
+faiss-cpu
+sentence-transformers
+PyPDF2
+python-docx
+pandas
+plotly
+streamlit-chat
+python-multipart
+watchdog
+
