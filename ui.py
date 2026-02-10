@@ -1,7 +1,7 @@
 import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
-from streamlit_chat import message
+import message
 
 def create_sidebar():
     """Create professional sidebar with API key input"""

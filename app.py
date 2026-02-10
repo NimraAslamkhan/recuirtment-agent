@@ -1,5 +1,6 @@
 import streamlit as st
-from ui import render_ui
+from ui import sidebar
+
 from agents import agent
 import os
 
